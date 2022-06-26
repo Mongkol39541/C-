@@ -1,0 +1,14 @@
+C:\Users\bossv\Desktop\C#\condition\condition\bin\Debug\netcoreapp3.1\condition.exe
+C:\Users\bossv\Desktop\C#\condition\condition\bin\Debug\netcoreapp3.1\condition.deps.json
+C:\Users\bossv\Desktop\C#\condition\condition\bin\Debug\netcoreapp3.1\condition.runtimeconfig.json
+C:\Users\bossv\Desktop\C#\condition\condition\bin\Debug\netcoreapp3.1\condition.runtimeconfig.dev.json
+C:\Users\bossv\Desktop\C#\condition\condition\bin\Debug\netcoreapp3.1\condition.dll
+C:\Users\bossv\Desktop\C#\condition\condition\bin\Debug\netcoreapp3.1\condition.pdb
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.csproj.AssemblyReference.cache
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.AssemblyInfoInputs.cache
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.AssemblyInfo.cs
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.csproj.CoreCompileInputs.cache
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.dll
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.pdb
+C:\Users\bossv\Desktop\C#\condition\condition\obj\Debug\netcoreapp3.1\condition.genruntimeconfig.cache

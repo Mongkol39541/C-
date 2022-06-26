@@ -1,0 +1,14 @@
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\bin\Debug\netcoreapp3.1\Methodd.exe
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\bin\Debug\netcoreapp3.1\Methodd.deps.json
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\bin\Debug\netcoreapp3.1\Methodd.runtimeconfig.json
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\bin\Debug\netcoreapp3.1\Methodd.runtimeconfig.dev.json
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\bin\Debug\netcoreapp3.1\Methodd.dll
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\bin\Debug\netcoreapp3.1\Methodd.pdb
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.csproj.AssemblyReference.cache
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.AssemblyInfoInputs.cache
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.AssemblyInfo.cs
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.csproj.CoreCompileInputs.cache
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.dll
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.pdb
+C:\Users\bossv\Desktop\C#\Methodd\Methodd\obj\Debug\netcoreapp3.1\Methodd.genruntimeconfig.cache

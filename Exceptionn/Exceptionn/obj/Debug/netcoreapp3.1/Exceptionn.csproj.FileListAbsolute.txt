@@ -1,0 +1,14 @@
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\bin\Debug\netcoreapp3.1\Exceptionn.exe
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\bin\Debug\netcoreapp3.1\Exceptionn.deps.json
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\bin\Debug\netcoreapp3.1\Exceptionn.runtimeconfig.json
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\bin\Debug\netcoreapp3.1\Exceptionn.runtimeconfig.dev.json
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\bin\Debug\netcoreapp3.1\Exceptionn.dll
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\bin\Debug\netcoreapp3.1\Exceptionn.pdb
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.csproj.AssemblyReference.cache
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.AssemblyInfoInputs.cache
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.AssemblyInfo.cs
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.csproj.CoreCompileInputs.cache
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.dll
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.pdb
+C:\Users\bossv\Desktop\C#\Exceptionn\Exceptionn\obj\Debug\netcoreapp3.1\Exceptionn.genruntimeconfig.cache

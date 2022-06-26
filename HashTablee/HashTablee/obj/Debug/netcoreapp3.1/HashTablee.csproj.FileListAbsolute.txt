@@ -1,0 +1,13 @@
+C:\Users\bossv\source\repos\HashTablee\HashTablee\bin\Debug\netcoreapp3.1\HashTablee.exe
+C:\Users\bossv\source\repos\HashTablee\HashTablee\bin\Debug\netcoreapp3.1\HashTablee.deps.json
+C:\Users\bossv\source\repos\HashTablee\HashTablee\bin\Debug\netcoreapp3.1\HashTablee.runtimeconfig.json
+C:\Users\bossv\source\repos\HashTablee\HashTablee\bin\Debug\netcoreapp3.1\HashTablee.runtimeconfig.dev.json
+C:\Users\bossv\source\repos\HashTablee\HashTablee\bin\Debug\netcoreapp3.1\HashTablee.dll
+C:\Users\bossv\source\repos\HashTablee\HashTablee\bin\Debug\netcoreapp3.1\HashTablee.pdb
+C:\Users\bossv\source\repos\HashTablee\HashTablee\obj\Debug\netcoreapp3.1\HashTablee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossv\source\repos\HashTablee\HashTablee\obj\Debug\netcoreapp3.1\HashTablee.AssemblyInfoInputs.cache
+C:\Users\bossv\source\repos\HashTablee\HashTablee\obj\Debug\netcoreapp3.1\HashTablee.AssemblyInfo.cs
+C:\Users\bossv\source\repos\HashTablee\HashTablee\obj\Debug\netcoreapp3.1\HashTablee.csproj.CoreCompileInputs.cache
+C:\Users\bossv\source\repos\HashTablee\HashTablee\obj\Debug\netcoreapp3.1\HashTablee.dll
+C:\Users\bossv\source\repos\HashTablee\HashTablee\obj\Debug\netcoreapp3.1\HashTablee.pdb
+C:\Users\bossv\source\repos\HashTablee\HashTablee\obj\Debug\netcoreapp3.1\HashTablee.genruntimeconfig.cache
