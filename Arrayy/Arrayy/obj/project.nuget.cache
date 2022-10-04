@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WVRyNVOh5BYL4fCKc7qe4qAImrRK1tixTW7LqLqDWHXzoTqSKWUkdxa3imutExY1TRoGV8lSC+eRui2Bz17jCw==",
+  "dgSpecHash": "DkPUw4Q6wejcsAaiNbw7ZdYbzV7ic3rGFFKcFi/pGBa9KXIorUaAaJPLS377/AXDlLky/0Bz4Ma/CeE5C9i1VQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bossv\\Desktop\\C#\\Arrayy\\Arrayy\\Arrayy.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Desktop\\CNET\\Arrayy\\Arrayy\\Arrayy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

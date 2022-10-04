@@ -12,3 +12,17 @@ C:\Users\bossv\Desktop\C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreComp
 C:\Users\bossv\Desktop\C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
 C:\Users\bossv\Desktop\C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
 C:\Users\bossv\Desktop\C#\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache
+C:\Users\User\Desktop\CNET\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+C:\Users\User\Desktop\CNET\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+C:\Users\User\Desktop\CNET\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+C:\Users\User\Desktop\CNET\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+C:\Users\User\Desktop\CNET\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+C:\Users\User\Desktop\CNET\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+C:\Users\User\Desktop\CNET\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache
